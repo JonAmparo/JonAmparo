@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="JonAmparo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonAmparo&show_icons=true&hide_border=true"" />
+  <img align="left" alt="JonAmparo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonAmparo&show_icons=true&hide_border=true" />
 
 </details>
 
