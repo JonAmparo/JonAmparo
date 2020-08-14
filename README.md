@@ -1,19 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Jonathan - Welcome to my Github Page!
 
-<!--
-**JonAmparo/JonAmparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-Stack Developer with a focus on the Front-End
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a couple of personal projects and refactoring older projects
+- 🌱 I’m currently learning everything 😂
+- 🤔 I’m currently looking for employment in the Baltimore - Washington DC area
+- 🥅 2020 Goals: Contribute to open source projects
+- ⚡ Fun fact: I love PC Gaming (Warzone, Overwatch, and Valorant), and playing/watching basketball.
 
 
 
@@ -24,7 +17,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Bootstrap" width="26px" src="bootstrap2.png" />
+<img align="left" alt="Bootstrap" width="26px" src="bootstrap.png" />
 <img align="left" alt="jQuery" width="26px" src="/jquery.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -41,10 +34,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="JonAmparo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonAmparo&show_icons=true&theme=radical" />
+  <img align="left" alt="JonAmparo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonAmparo&show_icons=true&hide_border=true"" />
 
 </details>
 
