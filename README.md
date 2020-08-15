@@ -1,4 +1,4 @@
-# Hi there, my name is Jonathan - Welcome to my Github Page!
+# Hi there, my name is Jonathan -
 
 ## I'm a Full-Stack Developer with a focus on the Front-End
 
@@ -28,15 +28,15 @@
 <img align="left" alt="Amazon Web Services" width="26px" src="/aws.png" />
 <img align="left" alt="Node Package Module" width="26px" src="/npm.png" />
 <img align="left" alt="PHP" width="26px" src="/php.png" />
-<img align="left" alt="Node JS" width="26px" src="/node.png" />
+<img align="left" alt="Node JS" width="26px" src="/nodejs.png" />
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jonamparo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jonamparo16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jonathanmamparo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
