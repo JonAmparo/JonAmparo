@@ -3,7 +3,7 @@
 ## I'm a Full-Stack Developer with a focus on the Front-End
 
 - 🔭 I’m currently working on a couple of personal projects and refactoring older projects
-- 🌱 I’m currently learning everything 😂
+- 🌱 I’m currently focusing on Front-End Development (React and its ecosystem)
 - 🤔 I’m currently looking for employment in the Baltimore - Washington DC area
 - 🥅 2020 Goals: Contribute to open source projects
 - ⚡ Fun fact: I love PC Gaming (Warzone, Overwatch, and Valorant), and playing/watching basketball.
