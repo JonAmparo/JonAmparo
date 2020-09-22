@@ -6,7 +6,6 @@
 - 🌱 I’m currently focusing on Front-End Development (React and its ecosystem)
 - 🤔 I’m currently looking for employment in the Baltimore - Washington DC area
 - 🥅 2020 Goals: Contribute to open source projects
-- ⚡ Fun fact: I love PC Gaming (Warzone, Overwatch, and Valorant), and playing/watching basketball.
 
 
 
