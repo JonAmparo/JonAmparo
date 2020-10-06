@@ -1,6 +1,6 @@
 # Hi there, my name is Jonathan -
 
-## I'm a Full-Stack Developer with a focus on the Front-End
+## I'm a Front-End Developer with knowledge Full-Stack development
 
 - 🔭 I’m currently working on a couple of personal projects and refactoring older projects
 - 🌱 I’m currently focusing on Front-End Development (React and its ecosystem)
