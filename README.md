@@ -1,9 +1,8 @@
 # Hi there, my name is Jonathan and I'm a Front-End Developer.
 
 - 🔭 I’m currently working on a couple of personal projects and refactoring older projects
-- 🌱 I’m currently focusing on Front-End Development (React and its ecosystem)
-- 🤔 I’m currently looking for employment in the Baltimore - Washington DC area
-- 🥅 2020 Goals: Contribute to open source projects
+- 🌱 I’m currently focusing on Front-End Development (TailwindCSS + Gatsby js)
+- 🥅 2021 Goals: Contribute to open source projects
 
 
 
